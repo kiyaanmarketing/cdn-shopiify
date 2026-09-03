@@ -1,0 +1,18 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git commit -m ' *)",
+      "Read(//c/Users/sunil/OneDrive/Desktop/Kiyaan/cspadsinterprises/**)",
+      "Bash(rm -rf .git node_modules)",
+      "Bash(sed -i 's/zoomersclicks\\\\.com/cspadsinterprises.com/g' public/aestro.js public/retrack.js public/tracks.js public/martin.js server.js)",
+      "Bash(ls \"c:/Users/sunil/OneDrive/Desktop/Kiyaan/cspadsinterprises/\")",
+      "Bash(ls \"c:/Users/sunil/OneDrive/Desktop/Kiyaan/cspadsinterprises/zoomersclicks/\")",
+      "Read(//c/Users/sunil/OneDrive/Desktop/Kiyaan/cspadsinterprises/zoomersclicks/**)",
+      "Bash(ls \"c:/Users/sunil/OneDrive/Desktop/Kiyaan/cspadsinterprises/.git\" 2>/dev/null && echo \"git exists\" || echo \"no git\")",
+      "Bash(rm -rf \"c:/Users/sunil/OneDrive/Desktop/Kiyaan/cspadsinterprises/zoomersclicks\" && echo \"Done\")"
+    ],
+    "additionalDirectories": [
+      "c:\\Users\\sunil\\OneDrive\\Desktop\\Kiyaan\\cspadsinterprises\\zoomersclicks"
+    ]
+  }
+}
