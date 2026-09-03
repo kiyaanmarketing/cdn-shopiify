@@ -9,7 +9,7 @@ const corsOptionsDelegate = (req, callback) => {
   const origin = req.header('Origin');
 
   if (allowedOrigins.indexOf(origin) !== -1) {
-    corsOptions = { origin: true };
+    corsOptions = { origin: true, credentials: true };
   } else {
     corsOptions = { origin: false };
   }
