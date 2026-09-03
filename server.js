@@ -1,7 +1,6 @@
 const express = require("express");
 const bodyParser = require("body-parser");
 const { PutCommand, ScanCommand } = require("@aws-sdk/lib-dynamodb");
-const cors = require("cors");
 const session = require('express-session');
 require("dotenv").config();
 const corsMiddleware = require("./middleware/corsMiddleware");
@@ -13,7 +12,6 @@ const port = process.env.PORT || 2607;
 
 app.use(corsMiddleware);
 app.use(bodyParser.json());
-app.use(cors());
 const jsonFilePath = path.join(__dirname, 'trackingUrls.json')
 
 app.use(express.static(path.join(__dirname, "public")));
@@ -21,7 +19,6 @@ app.use(express.static(path.join(__dirname, "public")));
 app.use((req, res, next) => {
   res.removeHeader("X-Frame-Options");
   res.setHeader("X-Frame-Options", "ALLOWALL");
-  res.setHeader("Access-Control-Allow-Origin", "*");
   next();
 });
 
